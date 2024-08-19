@@ -8,9 +8,12 @@ This project aims to develop a comprehensive CRM system that empowers businesses
 Key Features
 
 PDF Ingestion: Efficiently process PDF files, extract relevant data, and store it for analysis.
+
 Data Storage: Securely store customer information and interactions for easy access and retrieval.
+
 Insights: Provide valuable insights into customer behavior and trends through data analysis and visualization.
-Sales Cloud: Offer sales-focused functionalities similar to Salesforce, including lead management, opportunity tracking, and sales forecasting.
+
+Sales Management: Offer sales-focused functionalities similar to Salesforce, including lead management, opportunity tracking, and sales forecasting.
 Technologies Used
 
 Front-end: Angular 8, Bootstrap
