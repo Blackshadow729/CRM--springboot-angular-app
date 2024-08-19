@@ -34,4 +34,4 @@ Backend: cd backend && mvn clean install
 
 Start the application:
 Frontend: ng serve
-Backend: java -jar backend/target/your-app-name.jar
+Backend: java -jar backend/target/CRM--springboot-angular-app.jar
