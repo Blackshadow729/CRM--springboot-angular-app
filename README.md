@@ -25,13 +25,15 @@ Backend: Houses Spring Boot controllers, services, repositories, and configurati
 pdf-ingestion: Handles PDF processing and data extraction logic.
 Getting Started
 
-Clone the repository: git clone 
+Clone the repository: git clone https://github.com/Blackshadow729/CRM--springboot-angular-app.git
 
 Install dependencies:
+
 Frontend: cd frontend && npm install
+
 Backend: cd backend && mvn clean install
   
-Configure database and API keys (if applicable).
+
 Start the application:
 Frontend: ng serve
 Backend: java -jar backend/target/your-app-name.jar
